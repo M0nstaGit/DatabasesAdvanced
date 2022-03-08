@@ -5,7 +5,7 @@ import pandas as pd
 import warnings
 import pymongo as mongo
 
-# Because of something to do with df.append I ignored this warning
+# Because of something to do with df.append I ignored this warning.
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Make a connection with the MongoDB database
