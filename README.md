@@ -13,6 +13,8 @@ For the scraper you need:
 For mongoDB you also need:
 - pymongo
 
-# <span style="color:blue">How to use the scraper?</span>.
+# How to use the scraper?
+{: .gitlab-purple}
+
 To use the scraper you need to run the program and it will keep going every minute until you will stop it. 
 If you want to stop it you just press CTRL+C or ENTER.
