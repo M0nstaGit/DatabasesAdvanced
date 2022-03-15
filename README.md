@@ -25,3 +25,7 @@ If you want to stop it you just press CTRL+C or ENTER.
 
 ### Scraper with MongoDB
 ![mongoDB](https://user-images.githubusercontent.com/74768842/158421249-aa5f1a0e-0e29-4f8a-b2b6-98ec5c907bb2.png)
+
+
+### Scraper with Redis
+Still in progress!!!
