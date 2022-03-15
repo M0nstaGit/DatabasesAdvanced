@@ -17,3 +17,11 @@ For mongoDB you also need:
 ## How to use the scraper?
 To use the scraper you need to run the program and it will keep going every minute until you will stop it. 
 If you want to stop it you just press CTRL+C or ENTER.
+
+## Screenshots of scraper running
+### Scraper
+![scraper](https://user-images.githubusercontent.com/74768842/158421235-3c429109-7b9b-4bd4-bf62-c3cc309c4cdd.png)
+
+
+### Scraper with MongoDB
+![mongoDB](https://user-images.githubusercontent.com/74768842/158421249-aa5f1a0e-0e29-4f8a-b2b6-98ec5c907bb2.png)
