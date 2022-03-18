@@ -28,4 +28,8 @@ If you want to stop it you just press CTRL+C or ENTER.
 
 
 ### Scraper with Redis
-Still in progress!!!
+#### The data that has been scraped is send to Redis
+![toReids](https://user-images.githubusercontent.com/74768842/159017953-4c38087a-ef3e-4e4a-8086-9ab3562a3da7.png)
+
+#### Data is pulled from Redis and send to MongoDB
+![fromRedisToMongoDB](https://user-images.githubusercontent.com/74768842/159017931-3a66f207-41f4-419e-9edc-d5f32e09fd72.png)
