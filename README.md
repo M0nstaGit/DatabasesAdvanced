@@ -11,10 +11,10 @@ Required packages for the scraper:
 - pandas
 - warnings
 
-+ For mongoDB you also need:
+Plus for mongoDB you also need:
 - pymongo
 
-+ For redis:
+Plus for redis:
 - pickle5
 - reids
 
