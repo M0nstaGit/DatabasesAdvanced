@@ -16,7 +16,7 @@ Plus for mongoDB you also need:
 
 Plus for redis:
 - pickle5
-- reids
+- redis
 
 ## How to use the scraper?
 To use the scraper you need to run the program and it will keep going every minute until you will stop it. 
