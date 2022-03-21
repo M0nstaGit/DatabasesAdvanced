@@ -11,8 +11,12 @@ Required packages for the scraper:
 - pandas
 - warnings
 
-For mongoDB you also need:
++ For mongoDB you also need:
 - pymongo
+
++ For redis:
+- pickle5
+- reids
 
 ## How to use the scraper?
 To use the scraper you need to run the program and it will keep going every minute until you will stop it. 
